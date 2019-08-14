@@ -1,0 +1,17 @@
+C:\Users\Pope\desktop\c#\TodolIST.Solution\ToDoList.Tests\obj\Debug\netcoreapp2.2\ToDoList.Test.csprojAssemblyReference.cache
+C:\Users\Pope\desktop\c#\TodolIST.Solution\ToDoList.Tests\obj\Debug\netcoreapp2.2\ToDoList.Test.csproj.CoreCompileInputs.cache
+C:\Users\Pope\desktop\c#\TodolIST.Solution\ToDoList.Tests\obj\Debug\netcoreapp2.2\ToDoList.Test.AssemblyInfoInputs.cache
+C:\Users\Pope\desktop\c#\TodolIST.Solution\ToDoList.Tests\obj\Debug\netcoreapp2.2\ToDoList.Test.AssemblyInfo.cs
+C:\Users\Pope\desktop\c#\TodolIST.Solution\ToDoList.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pope\desktop\c#\TodolIST.Solution\ToDoList.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pope\desktop\c#\TodolIST.Solution\ToDoList.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pope\desktop\c#\TodolIST.Solution\ToDoList.Tests\bin\Debug\netcoreapp2.2\ToDoList.Test.deps.json
+C:\Users\Pope\desktop\c#\TodolIST.Solution\ToDoList.Tests\bin\Debug\netcoreapp2.2\ToDoList.Test.runtimeconfig.json
+C:\Users\Pope\desktop\c#\TodolIST.Solution\ToDoList.Tests\bin\Debug\netcoreapp2.2\ToDoList.Test.runtimeconfig.dev.json
+C:\Users\Pope\desktop\c#\TodolIST.Solution\ToDoList.Tests\bin\Debug\netcoreapp2.2\ToDoList.Test.dll
+C:\Users\Pope\desktop\c#\TodolIST.Solution\ToDoList.Tests\bin\Debug\netcoreapp2.2\ToDoList.Test.pdb
+C:\Users\Pope\desktop\c#\TodolIST.Solution\ToDoList.Tests\bin\Debug\netcoreapp2.2\ToDoList.dll
+C:\Users\Pope\desktop\c#\TodolIST.Solution\ToDoList.Tests\bin\Debug\netcoreapp2.2\ToDoList.pdb
+C:\Users\Pope\desktop\c#\TodolIST.Solution\ToDoList.Tests\obj\Debug\netcoreapp2.2\ToDoList.Test.csproj.CopyComplete
+C:\Users\Pope\desktop\c#\TodolIST.Solution\ToDoList.Tests\obj\Debug\netcoreapp2.2\ToDoList.Test.dll
+C:\Users\Pope\desktop\c#\TodolIST.Solution\ToDoList.Tests\obj\Debug\netcoreapp2.2\ToDoList.Test.pdb
