@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pope\\desktop\\c#\\TodolIST.Solution\\ToDoList\\ToDoList.csproj": {}
+    "C:\\Users\\Pope\\desktop\\c#\\Todolist.solution\\todolist\\ToDoList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pope\\desktop\\c#\\TodolIST.Solution\\ToDoList\\ToDoList.csproj": {
+    "C:\\Users\\Pope\\desktop\\c#\\Todolist.solution\\todolist\\ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pope\\desktop\\c#\\TodolIST.Solution\\ToDoList\\ToDoList.csproj",
+        "projectUniqueName": "C:\\Users\\Pope\\desktop\\c#\\Todolist.solution\\todolist\\ToDoList.csproj",
         "projectName": "ToDoList",
-        "projectPath": "C:\\Users\\Pope\\desktop\\c#\\TodolIST.Solution\\ToDoList\\ToDoList.csproj",
+        "projectPath": "C:\\Users\\Pope\\desktop\\c#\\Todolist.solution\\todolist\\ToDoList.csproj",
         "packagesPath": "C:\\Users\\Pope\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pope\\desktop\\c#\\TodolIST.Solution\\ToDoList\\obj\\",
+        "outputPath": "C:\\Users\\Pope\\desktop\\c#\\Todolist.solution\\todolist\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

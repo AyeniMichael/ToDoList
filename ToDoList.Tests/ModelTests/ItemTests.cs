@@ -10,7 +10,7 @@ namespace ToDoList.Tests
     {
         public void Dispose()
         {
-            Item.ClearAll();
+            //Item.ClearAll();
         }
 
         [TestMethod]
@@ -40,8 +40,35 @@ namespace ToDoList.Tests
             //Arrange
             List<Item> newList = new List<Item> {};
 
+            
+
             //Act
             List<Item> result = Item.GetAll();
+            foreach (Item thisItem in result)
+            {
+                Console.WriteLine("Output from empty list GetAll test: " + thisItem.Description);
+            }
+            //Assert
+            CollectionAssert.AreEqual(newList, result);
+
+        }
+
+        [TestMethod]
+        public void GetAll_ReturnsListOfRecentItems_ListOfItems()
+        {
+            //Arrange
+            string description1 = "Wash the Plates";
+            string description2 = "Walk the Dog";
+            Item newItem1 = new Item(description1);
+            Item newItem2 = new Item(description2);
+            List<Item> newList = new List<Item> {newItem1, newItem2};
+
+            //Act
+            List<Item> result = Item.GetAll();
+            foreach (Item thisItem in result)
+            {
+                Console.WriteLine("Output from empty list GetAll test: " + thisItem.Description);
+            }
 
             //Assert
             CollectionAssert.AreEqual(newList, result);

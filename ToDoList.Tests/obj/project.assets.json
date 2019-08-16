@@ -5846,11 +5846,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pope\\desktop\\c#\\TodolIST.Solution\\ToDoList.Tests\\ToDoList.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Pope\\desktop\\c#\\todolist.solution\\todolist.tests\\ToDoList.Test.csproj",
       "projectName": "ToDoList.Test",
-      "projectPath": "C:\\Users\\Pope\\desktop\\c#\\TodolIST.Solution\\ToDoList.Tests\\ToDoList.Test.csproj",
+      "projectPath": "C:\\Users\\Pope\\desktop\\c#\\todolist.solution\\todolist.tests\\ToDoList.Test.csproj",
       "packagesPath": "C:\\Users\\Pope\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pope\\desktop\\c#\\TodolIST.Solution\\ToDoList.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Pope\\desktop\\c#\\todolist.solution\\todolist.tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5867,8 +5867,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Pope\\desktop\\c#\\TodolIST.Solution\\ToDoList\\ToDoList.csproj": {
-              "projectPath": "C:\\Users\\Pope\\desktop\\c#\\TodolIST.Solution\\ToDoList\\ToDoList.csproj"
+            "C:\\Users\\Pope\\desktop\\c#\\todolist.solution\\ToDoList\\ToDoList.csproj": {
+              "projectPath": "C:\\Users\\Pope\\desktop\\c#\\todolist.solution\\ToDoList\\ToDoList.csproj"
             }
           }
         }
